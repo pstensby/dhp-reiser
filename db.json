@@ -1,5 +1,5 @@
 {
-  navn: "Kjells Dyrehelse",
-  org_nummer: "123456789"
-  malform: "BOKMAL"
+  "navn": "Kjells Dyrehelse",
+  "org_nummer": "123456789",
+  "malform": "BOKMAL"
 }
