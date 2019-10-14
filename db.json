@@ -1,5 +1,8 @@
 {
-  "navn": "Kjells Dyrehelse",
-  "org_nummer": "123456789",
-  "malform": "BOKMAL"
+  "reiser": [{
+    "navn": "Kjells Dyrehelse",
+    "org_nummer": "123456789",
+    "malform": "BOKMAL"
+    }
+  ]
 }
