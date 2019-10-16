@@ -4,18 +4,22 @@
       "veteriner": {
         "fornavn": "Kjell",
         "etternavn": "Tring",
-        "org_nummer": "123456789",
-        "malform": "BOKMAL",
-        "foretak": {}
+        "foretak": {
+          "org_nummer": "123456789",
+          "navn": "Kjells Lamakiropraktorklinikk",
+          "malform": "BOKMAL"
+        }
       }
     },
     {
       "veteriner": {
         "fornavn": "Vegar",
         "etternavn": "Beider",
-        "org_nummer": "123456780",
-        "malform": "NYNORSK",
-        "foretak": {}
+        "foretak": {
+          "org_nummer": "123456780",
+          "navn": "Vegars Saueinfluensavaksinasjonsklinikk",
+          "malform": "NYNORSK"
+        }
       }
     }
   ]
