@@ -1,14 +1,22 @@
 {
   "reiser": [
     {
-      "navn": "Kjells Dyrehelse",
-      "org_nummer": "123456789",
-      "malform": "BOKMAL"
+      "veteriner": {
+        "fornavn": "Kjell",
+        "etternavn": "Tring",
+        "org_nummer": "123456789",
+        "malform": "BOKMAL",
+        "foretak": {}
+      }
     },
     {
-      "navn": "Ingrids Hestemedisin",
-      "org_nummer": "123456780",
-      "malform": "BOKMAL"
+      "veteriner": {
+        "fornavn": "Vegar",
+        "etternavn": "Beider",
+        "org_nummer": "123456780",
+        "malform": "NYNORSK",
+        "foretak": {}
+      }
     }
   ]
 }
