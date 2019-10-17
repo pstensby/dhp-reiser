@@ -14,6 +14,20 @@
         }
       }
     },
+     {
+      "veteriner": {
+        "veteriner_nummer": "123",
+        "fornavn": "Kjell T.",
+        "etternavn": "Ring",
+        "epost": "kjell.tring@kjellslamakiropraktorklinikk.no",
+        "telefon_nummer": "+4799999999",
+        "foretak": {
+          "org_nummer": "123456789",
+          "navn": "Kjells Lamakiropraktorklinikk",
+          "malform": "BOKMAL"
+        }
+      }
+    },
     {
       "veteriner": {
         "veteriner_nummer": "321",
