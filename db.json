@@ -6,12 +6,7 @@
         "fornavn": "Kjell",
         "etternavn": "Tring",
         "epost": "kjell.tring@kjellslamakiropraktorklinikk.no",
-        "telefon_nummer": "+4799999999",
-        "foretak": {
-          "org_nummer": "123456789",
-          "navn": "Kjells Lamakiropraktorklinikk",
-          "malform": "BOKMAL"
-        }
+        "telefon_nummer": "+4799999999"      
       }
     },
      {
@@ -20,12 +15,7 @@
         "fornavn": "Kjell T.",
         "etternavn": "Ring",
         "epost": "kjell.tring@kjellslamakiropraktorklinikk.no",
-        "telefon_nummer": "+4799999999",
-        "foretak": {
-          "org_nummer": "123456789",
-          "navn": "Kjells Lamakiropraktorklinikk",
-          "malform": "BOKMAL"
-        }
+        "telefon_nummer": "+4799999999"
       }
     },
     {
@@ -34,12 +24,7 @@
         "fornavn": "Vegar",
         "etternavn": "Beider",
         "epost": "vegar.beider@vegarssaueinfluensavaksinasjonsklinikk.no",
-        "telefon_nummer": "+4788888888",
-        "foretak": {
-          "org_nummer": "123456780",
-          "navn": "Vegars Saueinfluensavaksinasjonsklinikk",
-          "malform": "NYNORSK"
-        }
+        "telefon_nummer": "+4788888888"
       }
     }
   ]
